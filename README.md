@@ -2,12 +2,12 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)  
 
-# Sobre o projeto
+# 📖 Sobre o projeto
 
 Esta aplicação foi desenvolvida seguindo o padrão MVC em Java, utilizando o framework Spring Boot. O projeto possui uma estrutura de CRUD que possibilita as operações de cadastro, edição, salvamento e exclusão para as entidades cliente, vendedor, produto, venda e item de venda, no qual os dados estão sendo persistidos em um banco de dados MySQL.
 
-# Tecnologias utilizadas
-## Back end
+# 🛠️ Tecnologias utilizadas
+## ⚙️ Back end
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -18,29 +18,29 @@ Esta aplicação foi desenvolvida seguindo o padrão MVC em Java, utilizando o f
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
   
-## Banco de Dados Lógico
+## 🗄️ Banco de Dados Lógico
 
 ![](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/banco%20l%C3%B3gico.png)  
 
-## Tabelas do Banco de dados MySQL
+## 📊 Tabelas do Banco de dados MySQL
+
+### 👤 Cliente
 ![Cliente](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185617.png)
 
-
+### 💼 Vendedor
 ![Vendedor](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185650.png)
 
-
+### 📦 Produto
 ![Produto](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185705.png)
 
-
+### 🛒 Venda
 ![Venda](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185725.png)
 
-
+### 📋 Item da Venda
 ![ItemDaVenda](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185738.png)
 
-# Autores
+# 👥 Autores
 
-Layza Emmanuelle
-
-Thailane Guena
-
-Victor Carrilho
+- Layza Emmanuelle
+- Thailane Guena
+- Victor Carrilho
