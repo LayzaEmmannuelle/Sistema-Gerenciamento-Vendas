@@ -1,6 +1,6 @@
 # Sistema-de-Gerenciamento-de-Vendas
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)  
 
 # Sobre o projeto
 
@@ -8,16 +8,19 @@ Esta aplicação foi desenvolvida seguindo o padrão MVC em Java, utilizando o f
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- Swagger
-- Banco de dados H2
-- MySQL
-- Postman
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Swagger-%23C7O2E5.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/H2-%23000000.svg?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Database" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
   
 ## Banco de Dados Lógico
 
-![](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/banco%20l%C3%B3gico.png) 
+![](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/banco%20l%C3%B3gico.png)  
 
 ## Tabelas do Banco de dados MySQL
 ![Cliente](https://github.com/LayzaEmmannuelle/Sistema_de_Gerenciamento_de_Vendas-/blob/main/assets/Captura%20de%20tela%202023-11-13%20185617.png)
